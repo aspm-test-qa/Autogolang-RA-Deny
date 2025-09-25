@@ -1,4 +1,4 @@
-# Google Cloud Platform Go Sample
+# Google Cloud Platform Go Samples
 
 [![Kokoro Build Status][kokoro_badge]][kokoro_link]
 
